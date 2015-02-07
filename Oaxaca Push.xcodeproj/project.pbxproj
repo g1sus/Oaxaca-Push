@@ -14,6 +14,30 @@
 		642142961A859959008B8743 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 642142951A859959008B8743 /* Images.xcassets */; };
 		642142991A85995A008B8743 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 642142971A85995A008B8743 /* LaunchScreen.xib */; };
 		642142A51A85995A008B8743 /* Oaxaca_PushTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 642142A41A85995A008B8743 /* Oaxaca_PushTests.m */; };
+		642142CF1A859E18008B8743 /* NSDate+RFC1123.html in Resources */ = {isa = PBXBuildFile; fileRef = 642142B21A859E18008B8743 /* NSDate+RFC1123.html */; };
+		642142D01A859E18008B8743 /* NSString+GTMNSStringHTMLAdditions.html in Resources */ = {isa = PBXBuildFile; fileRef = 642142B31A859E18008B8743 /* NSString+GTMNSStringHTMLAdditions.html */; };
+		642142D11A859E18008B8743 /* PushNotificationManager.html in Resources */ = {isa = PBXBuildFile; fileRef = 642142B51A859E18008B8743 /* PushNotificationManager.html */; };
+		642142D21A859E18008B8743 /* PWNetworkEngine.html in Resources */ = {isa = PBXBuildFile; fileRef = 642142B61A859E18008B8743 /* PWNetworkEngine.html */; };
+		642142D31A859E18008B8743 /* PWNetworkOperation.html in Resources */ = {isa = PBXBuildFile; fileRef = 642142B71A859E18008B8743 /* PWNetworkOperation.html */; };
+		642142D41A859E18008B8743 /* PWReachability.html in Resources */ = {isa = PBXBuildFile; fileRef = 642142B81A859E18008B8743 /* PWReachability.html */; };
+		642142D51A859E18008B8743 /* PWTags.html in Resources */ = {isa = PBXBuildFile; fileRef = 642142B91A859E18008B8743 /* PWTags.html */; };
+		642142D61A859E18008B8743 /* PWBeaconAction.html in Resources */ = {isa = PBXBuildFile; fileRef = 642142BB1A859E18008B8743 /* PWBeaconAction.html */; };
+		642142D71A859E18008B8743 /* PWSupportedOrientations.html in Resources */ = {isa = PBXBuildFile; fileRef = 642142BC1A859E18008B8743 /* PWSupportedOrientations.html */; };
+		642142D81A859E18008B8743 /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = 642142BE1A859E18008B8743 /* styles.css */; };
+		642142D91A859E18008B8743 /* stylesPrint.css in Resources */ = {isa = PBXBuildFile; fileRef = 642142BF1A859E18008B8743 /* stylesPrint.css */; };
+		642142DA1A859E18008B8743 /* hierarchy.html in Resources */ = {isa = PBXBuildFile; fileRef = 642142C01A859E18008B8743 /* hierarchy.html */; };
+		642142DB1A859E18008B8743 /* button_bar_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 642142C21A859E18008B8743 /* button_bar_background.png */; };
+		642142DC1A859E18008B8743 /* disclosure.png in Resources */ = {isa = PBXBuildFile; fileRef = 642142C31A859E18008B8743 /* disclosure.png */; };
+		642142DD1A859E18008B8743 /* disclosure_open.png in Resources */ = {isa = PBXBuildFile; fileRef = 642142C41A859E18008B8743 /* disclosure_open.png */; };
+		642142DE1A859E18008B8743 /* library_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 642142C51A859E18008B8743 /* library_background.png */; };
+		642142DF1A859E18008B8743 /* title_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 642142C61A859E18008B8743 /* title_background.png */; };
+		642142E01A859E18008B8743 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 642142C71A859E18008B8743 /* index.html */; };
+		642142E11A859E18008B8743 /* PushNotificationDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 642142C91A859E18008B8743 /* PushNotificationDelegate.html */; };
+		642142E21A859E18008B8743 /* Pushwoosh.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 642142CB1A859E18008B8743 /* Pushwoosh.framework */; };
+		642142E31A859E18008B8743 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 642142CC1A859E18008B8743 /* LICENSE */; };
+		642142E41A859E18008B8743 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 642142CD1A859E18008B8743 /* README.md */; };
+		642142E51A859E18008B8743 /* VERSION.md in Sources */ = {isa = PBXBuildFile; fileRef = 642142CE1A859E18008B8743 /* VERSION.md */; };
+		642142E71A859E4B008B8743 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 642142E61A859E4B008B8743 /* MobileCoreServices.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +64,30 @@
 		6421429E1A85995A008B8743 /* Oaxaca PushTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Oaxaca PushTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		642142A31A85995A008B8743 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		642142A41A85995A008B8743 /* Oaxaca_PushTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Oaxaca_PushTests.m; sourceTree = "<group>"; };
+		642142B21A859E18008B8743 /* NSDate+RFC1123.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = "NSDate+RFC1123.html"; sourceTree = "<group>"; };
+		642142B31A859E18008B8743 /* NSString+GTMNSStringHTMLAdditions.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = "NSString+GTMNSStringHTMLAdditions.html"; sourceTree = "<group>"; };
+		642142B51A859E18008B8743 /* PushNotificationManager.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PushNotificationManager.html; sourceTree = "<group>"; };
+		642142B61A859E18008B8743 /* PWNetworkEngine.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWNetworkEngine.html; sourceTree = "<group>"; };
+		642142B71A859E18008B8743 /* PWNetworkOperation.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWNetworkOperation.html; sourceTree = "<group>"; };
+		642142B81A859E18008B8743 /* PWReachability.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWReachability.html; sourceTree = "<group>"; };
+		642142B91A859E18008B8743 /* PWTags.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWTags.html; sourceTree = "<group>"; };
+		642142BB1A859E18008B8743 /* PWBeaconAction.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWBeaconAction.html; sourceTree = "<group>"; };
+		642142BC1A859E18008B8743 /* PWSupportedOrientations.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWSupportedOrientations.html; sourceTree = "<group>"; };
+		642142BE1A859E18008B8743 /* styles.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+		642142BF1A859E18008B8743 /* stylesPrint.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = stylesPrint.css; sourceTree = "<group>"; };
+		642142C01A859E18008B8743 /* hierarchy.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = hierarchy.html; sourceTree = "<group>"; };
+		642142C21A859E18008B8743 /* button_bar_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_bar_background.png; sourceTree = "<group>"; };
+		642142C31A859E18008B8743 /* disclosure.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosure.png; sourceTree = "<group>"; };
+		642142C41A859E18008B8743 /* disclosure_open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosure_open.png; sourceTree = "<group>"; };
+		642142C51A859E18008B8743 /* library_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = library_background.png; sourceTree = "<group>"; };
+		642142C61A859E18008B8743 /* title_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_background.png; sourceTree = "<group>"; };
+		642142C71A859E18008B8743 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = index.html; sourceTree = "<group>"; };
+		642142C91A859E18008B8743 /* PushNotificationDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PushNotificationDelegate.html; sourceTree = "<group>"; };
+		642142CB1A859E18008B8743 /* Pushwoosh.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Pushwoosh.framework; sourceTree = "<group>"; };
+		642142CC1A859E18008B8743 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		642142CD1A859E18008B8743 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		642142CE1A859E18008B8743 /* VERSION.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = VERSION.md; sourceTree = "<group>"; };
+		642142E61A859E4B008B8743 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +95,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				642142E71A859E4B008B8743 /* MobileCoreServices.framework in Frameworks */,
+				642142E21A859E18008B8743 /* Pushwoosh.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -88,6 +138,7 @@
 				642142921A859959008B8743 /* Main.storyboard */,
 				642142951A859959008B8743 /* Images.xcassets */,
 				642142971A85995A008B8743 /* LaunchScreen.xib */,
+				642142AE1A859E03008B8743 /* Frameworks */,
 				642142881A859959008B8743 /* Supporting Files */,
 			);
 			path = "Oaxaca Push";
@@ -117,6 +168,109 @@
 				642142A31A85995A008B8743 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		642142AE1A859E03008B8743 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				642142E61A859E4B008B8743 /* MobileCoreServices.framework */,
+				642142AF1A859E18008B8743 /* pushwoosh-ios-sdk-master */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		642142AF1A859E18008B8743 /* pushwoosh-ios-sdk-master */ = {
+			isa = PBXGroup;
+			children = (
+				642142B01A859E18008B8743 /* Documentation */,
+				642142CA1A859E18008B8743 /* Framework */,
+				642142CC1A859E18008B8743 /* LICENSE */,
+				642142CD1A859E18008B8743 /* README.md */,
+				642142CE1A859E18008B8743 /* VERSION.md */,
+			);
+			path = "pushwoosh-ios-sdk-master";
+			sourceTree = SOURCE_ROOT;
+		};
+		642142B01A859E18008B8743 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				642142B11A859E18008B8743 /* Categories */,
+				642142B41A859E18008B8743 /* Classes */,
+				642142BA1A859E18008B8743 /* Constants */,
+				642142BD1A859E18008B8743 /* css */,
+				642142C01A859E18008B8743 /* hierarchy.html */,
+				642142C11A859E18008B8743 /* img */,
+				642142C71A859E18008B8743 /* index.html */,
+				642142C81A859E18008B8743 /* Protocols */,
+			);
+			path = Documentation;
+			sourceTree = "<group>";
+		};
+		642142B11A859E18008B8743 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				642142B21A859E18008B8743 /* NSDate+RFC1123.html */,
+				642142B31A859E18008B8743 /* NSString+GTMNSStringHTMLAdditions.html */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		642142B41A859E18008B8743 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				642142B51A859E18008B8743 /* PushNotificationManager.html */,
+				642142B61A859E18008B8743 /* PWNetworkEngine.html */,
+				642142B71A859E18008B8743 /* PWNetworkOperation.html */,
+				642142B81A859E18008B8743 /* PWReachability.html */,
+				642142B91A859E18008B8743 /* PWTags.html */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		642142BA1A859E18008B8743 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				642142BB1A859E18008B8743 /* PWBeaconAction.html */,
+				642142BC1A859E18008B8743 /* PWSupportedOrientations.html */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		642142BD1A859E18008B8743 /* css */ = {
+			isa = PBXGroup;
+			children = (
+				642142BE1A859E18008B8743 /* styles.css */,
+				642142BF1A859E18008B8743 /* stylesPrint.css */,
+			);
+			path = css;
+			sourceTree = "<group>";
+		};
+		642142C11A859E18008B8743 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				642142C21A859E18008B8743 /* button_bar_background.png */,
+				642142C31A859E18008B8743 /* disclosure.png */,
+				642142C41A859E18008B8743 /* disclosure_open.png */,
+				642142C51A859E18008B8743 /* library_background.png */,
+				642142C61A859E18008B8743 /* title_background.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		642142C81A859E18008B8743 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				642142C91A859E18008B8743 /* PushNotificationDelegate.html */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		642142CA1A859E18008B8743 /* Framework */ = {
+			isa = PBXGroup;
+			children = (
+				642142CB1A859E18008B8743 /* Pushwoosh.framework */,
+			);
+			path = Framework;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -168,6 +322,7 @@
 				TargetAttributes = {
 					642142841A859959008B8743 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = QXF33N93KH;
 					};
 					6421429D1A85995A008B8743 = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -199,9 +354,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				642142E01A859E18008B8743 /* index.html in Resources */,
+				642142D21A859E18008B8743 /* PWNetworkEngine.html in Resources */,
+				642142DE1A859E18008B8743 /* library_background.png in Resources */,
+				642142D61A859E18008B8743 /* PWBeaconAction.html in Resources */,
 				642142941A859959008B8743 /* Main.storyboard in Resources */,
+				642142D91A859E18008B8743 /* stylesPrint.css in Resources */,
+				642142E11A859E18008B8743 /* PushNotificationDelegate.html in Resources */,
+				642142DD1A859E18008B8743 /* disclosure_open.png in Resources */,
+				642142D71A859E18008B8743 /* PWSupportedOrientations.html in Resources */,
+				642142D81A859E18008B8743 /* styles.css in Resources */,
+				642142DC1A859E18008B8743 /* disclosure.png in Resources */,
+				642142D51A859E18008B8743 /* PWTags.html in Resources */,
 				642142991A85995A008B8743 /* LaunchScreen.xib in Resources */,
+				642142E31A859E18008B8743 /* LICENSE in Resources */,
+				642142D01A859E18008B8743 /* NSString+GTMNSStringHTMLAdditions.html in Resources */,
+				642142D41A859E18008B8743 /* PWReachability.html in Resources */,
+				642142D31A859E18008B8743 /* PWNetworkOperation.html in Resources */,
+				642142DB1A859E18008B8743 /* button_bar_background.png in Resources */,
+				642142CF1A859E18008B8743 /* NSDate+RFC1123.html in Resources */,
+				642142DF1A859E18008B8743 /* title_background.png in Resources */,
 				642142961A859959008B8743 /* Images.xcassets in Resources */,
+				642142DA1A859E18008B8743 /* hierarchy.html in Resources */,
+				642142D11A859E18008B8743 /* PushNotificationManager.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,6 +396,8 @@
 			files = (
 				642142911A859959008B8743 /* ViewController.m in Sources */,
 				6421428E1A859959008B8743 /* AppDelegate.m in Sources */,
+				642142E51A859E18008B8743 /* VERSION.md in Sources */,
+				642142E41A859E18008B8743 /* README.md in Sources */,
 				6421428B1A859959008B8743 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -343,9 +520,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/pushwoosh-ios-sdk-master/Framework",
+				);
 				INFOPLIST_FILE = "Oaxaca Push/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "9b8b5438-2abc-4105-b7d5-e341dded3ffb";
 			};
 			name = Debug;
 		};
@@ -353,9 +537,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/pushwoosh-ios-sdk-master/Framework",
+				);
 				INFOPLIST_FILE = "Oaxaca Push/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "9b8b5438-2abc-4105-b7d5-e341dded3ffb";
 			};
 			name = Release;
 		};
@@ -412,6 +603,7 @@
 				642142AA1A85995A008B8743 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		642142AB1A85995A008B8743 /* Build configuration list for PBXNativeTarget "Oaxaca PushTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +612,7 @@
 				642142AD1A85995A008B8743 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
